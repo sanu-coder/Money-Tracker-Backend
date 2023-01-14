@@ -1,0 +1,7 @@
+{
+   "dataURI" : "mongodb+srv://sanya30122000:sanya30122000@cluster0.vmkwj.mongodb.net/moneyTracker?retryWrites=true&w=majority",
+   "port" : 3200,
+   "jwt" : {
+        "secret" : "HUHHJJkfsdjlkjU98elrklewrlk984203"
+    }
+}
